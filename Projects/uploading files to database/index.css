@@ -1,10 +1,10 @@
-body{
+body {
     margin: 0;
-    background-color: #191A1A;
-    color: #ededed;   
-    font-family: 'Nunito', sans-serif;
+    background-color: #191a1a;
+    color: #ededed;
+    font-family: "Nunito", sans-serif;
 }
-.container{
+.container {
     padding: 30px;
     display: flex;
     justify-content: center;
@@ -14,14 +14,14 @@ body{
     border-radius: 10px;
     width: 30%;
 }
-.cont label{
+.cont label {
     color: rgb(6, 81, 245);
 }
-.cont label:hover{
+.cont label:hover {
     text-decoration: underline;
     cursor: pointer;
 }
-.cont{
+.cont {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -42,30 +42,31 @@ button {
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
 }
-  
+
 button:hover {
     background: none;
     color: #5d8ffc;
     border: 1px solid rgb(3, 46, 140);
     cursor: pointer;
 }
-#temp{
+#temp {
     display: flex;
-    flex-direction: column ;
+    flex-direction: column;
     align-items: center;
 }
-.popup{
+.popup {
     background-color: #212224;
 }
-.popup button{
+.popup button {
     background: rgb(3, 46, 140);
     border: none !important;
 }
-.popup button:hover{
+.popup button:hover {
     background: rgb(3, 46, 140) !important;
     color: #ededed !important;
     border: none !important;
 }
-.swal-title, .swal-text{
+.swal-title,
+.swal-text {
     color: whitesmoke;
 }
