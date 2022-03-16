@@ -14,6 +14,7 @@ This is a simple project made to upload images / videos / text files to the data
 <a href = "https://www.w3schools.com/html/"> <img src = "https://i.stack.imgur.com/PgcSR.png" width = "30px"/> </a>
 <a href = "https://getbootstrap.com/docs/5.0/getting-started/introduction/"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width = "30px"/> </a>
 <a href = "https://jquery.com/"> <img src = "https://www.vectorlogo.zone/logos/jquery/jquery-ar21.png" width = "50px"/> </a>
+<a href = "https://firebase.google.com/"> <img src = "https://firebase.google.com/images/brand-guidelines/logo-vertical.png" width = "50px"/> </a>
 </details>
 
 <hr>
